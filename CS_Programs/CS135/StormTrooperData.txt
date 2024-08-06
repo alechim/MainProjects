@@ -1,0 +1,5 @@
+Stormtrooper1 hit miss hit hit miss hit hit hit miss miss
+Stormtrooper2 hit hit miss hit hit hit miss hit miss hit
+Stormtrooper3 miss hit hit hit miss hit hit hit miss hit
+Stormtrooper4 hit hit hit miss hit hit hit hit hit miss
+Stormtrooper5 miss hit hit hit miss hit hit hit hit hit

@@ -1,0 +1,75 @@
+WXYZ
+101.1
+Pop
+Song 1
+-----
+WABC
+102.3
+Rock
+Song 2
+-----
+WDEF
+103.5
+Jazz
+Song 3
+-----
+WQRS
+104.7
+Classical
+Song 4
+-----
+KLMN
+105.9
+Hip-Hop
+Song 5
+-----
+WJKL
+106.1
+Country
+Song 6
+-----
+WUVW
+107.3
+News
+Song 7
+-----
+KQED
+108.5
+Talk
+Song 8
+-----
+WNRJ
+109.7
+Electronic
+Song 9
+-----
+WTTT
+110.9
+Alternative
+Song 10
+-----
+KPOP
+111.1
+K-Pop
+Song 11
+-----
+WBZK
+112.3
+Blues
+Song 12
+-----
+WSUR
+113.5
+Reggae
+Song 13
+-----
+WVVV
+114.7
+Oldies
+Song 14
+-----
+WWXY
+115.9
+Latin
+Song 15
+-----

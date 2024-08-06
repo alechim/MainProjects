@@ -1,0 +1,104 @@
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000000        Admiral         Ackbar      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    1
+
+
+Total Droids Required     0
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000001           Luke      Skywalker      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    2
+
+
+Total Droids Required     1
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000002            Han           Solo      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    3
+
+
+Total Droids Required     2
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000003           Leia         Organa      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    4
+
+
+Total Droids Required     3
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000004      Chewbacca          R2-D2      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    5
+
+
+Total Droids Required     4
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000005          C-3PO          Darth      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    6
+
+
+Total Droids Required     5
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000006          Vader        Emperor      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    7
+
+
+Total Droids Required     6
+Number First Name     Last Name      Droid Type      Model
+------------------------------------------------------------
+000007      Palpatine          Queen      administrative          ET-74
+*********************
+Assigned Droid Count 
+*********************
+Astromech:         0
+Maintenance:       0
+Protocol:          0
+Administrative:    8
+
+
+Total Droids Required     7

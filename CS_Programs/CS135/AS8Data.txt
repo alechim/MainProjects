@@ -1,0 +1,3 @@
+figureEight 10 #
+triangle 15 $
+slash 8 @
