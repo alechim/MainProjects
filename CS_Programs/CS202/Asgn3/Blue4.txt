@@ -1,0 +1,7 @@
+Blue4 has been spawned
+Blue4 equipped a Sword
+Blue4 took 2 damage!
+Blue4 is attacking Green7 
+Blue4 took 2 damage!
+Blue4 took 2 damage!
+Blue4 has been despawned

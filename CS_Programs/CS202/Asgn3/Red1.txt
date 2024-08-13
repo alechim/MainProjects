@@ -1,0 +1,5 @@
+Red1 has been spawned
+Red1 equipped a Staff
+Red1 took 0 damage!
+Red1 took 18 damage!
+Red1 has been despawned

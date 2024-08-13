@@ -1,0 +1,8 @@
+Red3 has been spawned
+Red3 equipped a Saradomin Godsword
+Red3 is attacking Green2 
+Red3 is attacking Red2 
+Red3 took 3 damage!
+Red3 took 18 damage!
+Red3 took 18 damage!
+Red3 has been despawned

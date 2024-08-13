@@ -1,0 +1,7 @@
+Blue0 has been spawned
+Blue0 equipped a Sword
+Blue0 took 12 damage!
+Blue0 is attacking Green0 
+Blue0 took 12 damage!
+Blue0 took 12 damage!
+Blue0 has been despawned

@@ -1,0 +1,7 @@
+Blue6 has been spawned
+Blue6 equipped a Bow
+Blue6 took 2 damage!
+Blue6 is attacking Green8 
+Blue6 took 2 damage!
+Blue6 took 2 damage!
+Blue6 has been despawned

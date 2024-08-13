@@ -1,0 +1,7 @@
+Red2 has been spawned
+Red2 equipped a Bow
+Red2 took 0 damage!
+Red2 is attacking Red3 
+Red2 took 18 damage!
+Red2 took 18 damage!
+Red2 has been despawned

@@ -1,0 +1,7 @@
+Blue2 has been spawned
+Blue2 equipped a Bow
+Blue2 took 12 damage!
+Blue2 is attacking Green1 
+Blue2 took 12 damage!
+Blue2 took 12 damage!
+Blue2 has been despawned

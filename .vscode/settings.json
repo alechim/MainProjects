@@ -49,5 +49,5 @@
         "iomanip": "cpp",
         "sstream": "cpp",
         "fstream": "cpp"
-    }
+    },
 }
